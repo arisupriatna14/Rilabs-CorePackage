@@ -1,6 +1,6 @@
 //
-//  File.swift
-//  
+//  UseCaseType.swift
+//  Core
 //
 //  Created by Ari Supriatna on 21/01/21.
 //
